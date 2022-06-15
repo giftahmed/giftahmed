@@ -15,15 +15,16 @@
   Hi there I'm Gift Welcome to my Github Profile Page 👋
 </h1>
 </div>
- 
----
-👨‍🎓 I currently a Student 
-👨‍💻 I am into  Data and Tech - Data Analytic, Modern Workplace, Low-Code/No-Code Development,    Data Science, Machine Learning and Artificial Intelligence
-⚡ I am available for  for collaboration and speaking engagement on student skills developement
-🎵 I love listening to music
+
+### :man_technologist: About Me :
+- 👨‍🎓 I currently a Student 
+- 👨‍💻 I am into  Data and Tech - Data Analytic, Modern Workplace, Low-Code/No-Code Development,    Data Science, Machine Learning and Artificial Intelligence
+- ⚡ I am available for  for collaboration and speaking engagement on student skills developement
+- 🎵 I love listening to music
 
 
-:hammer_and_wrench: Languages and Tools :
+
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MS SqlServer" alt="MS SqlServer" width="40" height="40"/>&nbsp;
@@ -41,12 +42,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>
 </div>
 
-:fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=giftahmed&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giftahmed&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-   ### Don't Miss My Twitter Activities
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=lordgift01)](https://github.com/gazf/github-readme-twitter)
+### :fire: My Stats :
 [![Gift GitHub stats](https://github-readme-stats.vercel.app/api?username=giftahmed&theme=radical)](https://github.com/giftahmed/github-readme-stats)
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=giftahmed&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giftahmed&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
