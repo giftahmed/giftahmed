@@ -17,7 +17,7 @@
 </div>
 
 ### :man_technologist: About Me :
-- 👨‍🎓 I currently a Student 
+- 👨‍🎓 I am currently a Student 
 - 👨‍💻 I am into  Data and Tech - Data Analytic, Modern Workplace, Low-Code/No-Code Development,    Data Science, Machine Learning and Artificial Intelligence
 - ⚡ I am available for  for collaboration and speaking engagement on student skills developement
 - 🎵 I love listening to music
